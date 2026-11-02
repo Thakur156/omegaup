@@ -99,7 +99,6 @@ frontend/www/docs/pas
 frontend/www/docs/java
 
 # Ignore VS Code json
-.vscode/*
 .save
 
 # Ignore omegaup.db
@@ -138,3 +137,4 @@ CLAUDE.md
 
 # Ignore Cursor Code plan instruction
 .cursor/plans/*
+config.bat
